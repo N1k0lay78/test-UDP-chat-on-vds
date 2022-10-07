@@ -4,7 +4,7 @@ from time import time
 
 import select
 
-UDP_IP = "10.0.0.206"
+UDP_IP = "85.193.92.74"
 UDP_PORT = 5005
 
 sock = socket.socket(socket.AF_INET,  # Internet

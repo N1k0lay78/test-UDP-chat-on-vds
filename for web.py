@@ -2,8 +2,8 @@
 import socket
 import json
 
-print(socket.gethostbyname(socket.gethostname()))
-UDP_IP = socket.gethostbyname(socket.gethostname())
+print('85.193.92.74')
+UDP_IP = '85.193.92.74'
 UDP_PORT = 5005
 
 sock = socket.socket(socket.AF_INET,  # Internet
